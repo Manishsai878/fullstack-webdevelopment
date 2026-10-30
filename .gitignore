@@ -1,0 +1,61 @@
+﻿# Dependencies
+node_modules/
+*/node_modules/
+*/*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Production builds
+dist/
+*/dist/
+*/*/dist/
+build/
+*/build/
+*/*/build/
+*.tsbuildinfo
+
+# Environment variables & secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.env.*
+!.env.example
+!*/.env.example
+!*/*/.env.example
+
+# Runtime & database temp files
+*.tmp
+*.temp
+data/*.json
+!data/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# Editor and OS caches
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vscode/*
+!.vscode/tasks.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing & Coverage
+coverage/
+.nyc_output/

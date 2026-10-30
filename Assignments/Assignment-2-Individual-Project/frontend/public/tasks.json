@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Build Responsive College Event Portfolio Website",
+    "subject": "HTML & Web Tech",
+    "deadline": "2026-10-20",
+    "priority": "High",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Design CSS Grid Layout for Student Dashboard",
+    "subject": "CSS Styling",
+    "deadline": "2026-10-25",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Create Student Assignment Tracker Component using Hooks",
+    "subject": "React JS",
+    "deadline": "2026-10-28",
+    "priority": "High",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Write SQL Queries for Library Management System Schema",
+    "subject": "DBMS",
+    "deadline": "2026-11-02",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Implement File Handling and Exception Handling Script",
+    "subject": "Python Programming",
+    "deadline": "2026-11-08",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Supervised Classification Lab on Iris Dataset using Scikit-Learn",
+    "subject": "Machine Learning",
+    "deadline": "2026-11-15",
+    "priority": "Low",
+    "completed": false
+  }
+]
